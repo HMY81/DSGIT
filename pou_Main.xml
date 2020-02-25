@@ -6,9 +6,6 @@
          </vargroup>
 <defines name="Main"></defines>
          <sourceSTIL>
-// Master Workspapce
-Master002:= Master001+Master002;
-
          </sourceSTIL>
       </pou>
    </programs>
