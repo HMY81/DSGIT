@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+<K5project version="1.1">
+   <variables>
+      <vargroup name="(Global)" kind="GLOBAL">
+         <var name="Master001" type="UINT"/>
+         <var name="Master002" type="UINT"/>
+         <var name="Master003" type="UINT"/>
+         <var name="Master004" type="UINT"/>
+         <var name="Master005" type="UINT"/>
+         <var name="Master006" type="UINT"/>
+         <var name="Master007" type="UINT"/>
+         <var name="Master008" type="UINT"/>
+         <var name="Master009" type="UINT"/>
+      </vargroup>
+      <vargroup name="(Retain)" kind="RETAIN">
+      </vargroup>
+   </variables>
+</K5project>
