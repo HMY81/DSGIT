@@ -7,6 +7,8 @@
 <defines name="Main"></defines>
          <sourceSTIL>// Master Workspapce
 Master002:= Master001+Master002;
+// User_02 Workspapce
+User02002:=User02001+User02002;
          </sourceSTIL>
       </pou>
    </programs>

@@ -11,6 +11,15 @@
          <var name="Master007" type="UINT"/>
          <var name="Master008" type="UINT"/>
          <var name="Master009" type="UINT"/>
+         <var name="User02001" type="WORD"/>
+         <var name="User02002" type="WORD"/>
+         <var name="User02003" type="WORD"/>
+         <var name="User02004" type="WORD"/>
+         <var name="User02005" type="WORD"/>
+         <var name="User02006" type="WORD"/>
+         <var name="User02007" type="WORD"/>
+         <var name="User02008" type="WORD"/>
+         <var name="User02009" type="WORD"/>
       </vargroup>
       <vargroup name="(Retain)" kind="RETAIN">
       </vargroup>

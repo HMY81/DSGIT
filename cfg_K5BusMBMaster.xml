@@ -13,6 +13,15 @@
                <modbusitem ope="Data" offset="7" symbol="Master007" nbword="1" mask="ffff" RangeHi="" RangeLo="" SigHi="" SigLo=""/>
                <modbusitem ope="Data" offset="8" symbol="Master008" nbword="1" mask="ffff" RangeHi="" RangeLo="" SigHi="" SigLo=""/>
                <modbusitem ope="Data" offset="9" symbol="Master009" nbword="1" mask="ffff" RangeHi="" RangeLo="" SigHi="" SigLo=""/>
+               <modbusitem ope="Data" offset="21" symbol="User02001" nbword="1" mask="ffff" RangeHi="" RangeLo="" SigHi="" SigLo=""/>
+               <modbusitem ope="Data" offset="22" symbol="User02002" nbword="1" mask="ffff" RangeHi="" RangeLo="" SigHi="" SigLo=""/>
+               <modbusitem ope="Data" offset="23" symbol="User02003" nbword="1" mask="ffff" RangeHi="" RangeLo="" SigHi="" SigLo=""/>
+               <modbusitem ope="Data" offset="24" symbol="User02004" nbword="1" mask="ffff" RangeHi="" RangeLo="" SigHi="" SigLo=""/>
+               <modbusitem ope="Data" offset="25" symbol="User02005" nbword="1" mask="ffff" RangeHi="" RangeLo="" SigHi="" SigLo=""/>
+               <modbusitem ope="Data" offset="26" symbol="User02006" nbword="1" mask="ffff" RangeHi="" RangeLo="" SigHi="" SigLo=""/>
+               <modbusitem ope="Data" offset="27" symbol="User02007" nbword="1" mask="ffff" RangeHi="" RangeLo="" SigHi="" SigLo=""/>
+               <modbusitem ope="Data" offset="28" symbol="User02008" nbword="1" mask="ffff" RangeHi="" RangeLo="" SigHi="" SigLo=""/>
+               <modbusitem ope="Data" offset="29" symbol="User02009" nbword="1" mask="ffff" RangeHi="" RangeLo="" SigHi="" SigLo=""/>
             </modbusreq>
          </modbusport>
       </modbus>
