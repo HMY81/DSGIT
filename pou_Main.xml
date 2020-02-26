@@ -6,10 +6,15 @@
          </vargroup>
 <defines name="Main"></defines>
          <sourceSTIL>// Master Workspace &lt;== User_01 Update
+           
 Master002:= Master001+Master002;
+           
+// User_02 Workspapce
+User02002:=User02001+User02002;
 
 // User_01 Workspce
 user01002:= user01001+user01002;
+
          </sourceSTIL>
       </pou>
    </programs>
