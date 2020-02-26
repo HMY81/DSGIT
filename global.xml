@@ -11,6 +11,15 @@
          <var name="Master007" type="UINT"/>
          <var name="Master008" type="UINT"/>
          <var name="Master009" type="UINT"/>
+         <var name="User01001" type="INT"/>
+         <var name="User01002" type="INT"/>
+         <var name="User01003" type="INT"/>
+         <var name="User01004" type="INT"/>
+         <var name="User01005" type="INT"/>
+         <var name="User01006" type="INT"/>
+         <var name="User01007" type="INT"/>
+         <var name="User01008" type="INT"/>
+         <var name="User01009" type="INT"/>
       </vargroup>
       <vargroup name="(Retain)" kind="RETAIN">
       </vargroup>
