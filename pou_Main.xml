@@ -3,17 +3,30 @@
    <programs>
       <pou name="Main" kind="program" period="1" phase="0" lge="ST">
          <vargroup name="Main" kind="LOCAL">
+            <var name="PLS100ms" type="PLS"/>
          </vargroup>
 <defines name="Main"></defines>
          <sourceSTIL>// Master Workspace &lt;== User_01 Update
            
-Master002:= Master001+Master002;
+//Master002:= Master001+Master002;
            
 // User_02 Workspapce
 User02002:=User02001+User02002;
 
 // User_01 Workspce
 user01002:= user01001+user01002;
+
+
+// Master Add Workspaece 
+
+PLS100ms(1, t#100ms);
+if PLS100ms.q = 1 then
+    Master001 := Master001 + 100;
+end_if;
+if (Master001 - 100) &lt;&gt; 0 then
+    Master002 := Master002 + 1;
+else Master002 := 0;
+end_if;
          </sourceSTIL>
       </pou>
    </programs>
